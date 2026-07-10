@@ -56,5 +56,4 @@ The notebook includes:
 
 ## Author
 **Aarna Gupta**
-
 GitHub: https://github.com/aarna605-dot
